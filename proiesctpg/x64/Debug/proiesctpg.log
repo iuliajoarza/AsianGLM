@@ -1,0 +1,13 @@
+﻿  main.cpp
+F:\proiesctpg\main.cpp(95,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\proiesctpg\main.cpp(96,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\proiesctpg\main.cpp(203,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\proiesctpg\main.cpp(204,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\proiesctpg\main.cpp(208,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\proiesctpg\main.cpp(209,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\proiesctpg\main.cpp(212,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\proiesctpg\main.cpp(213,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\proiesctpg\main.cpp(400,25): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+F:\proiesctpg\main.cpp(400,20): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+F:\proiesctpg\main.cpp(400,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  proiesctpg.vcxproj -> F:\proiesctpg\x64\Debug\proiesctpg.exe
